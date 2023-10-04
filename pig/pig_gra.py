@@ -6,6 +6,7 @@
 # Gracze określają ile trzeba uzyskać pkt aby wygrac np powyeżej 50
 import random
 
+
 def roll():
     min_value = 1
     max_value = 6
