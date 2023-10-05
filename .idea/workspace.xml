@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d8e9285f-982d-46d8-98e6-7f60f99ad88c" name="Changes" comment="Projekt z Yt gra &quot;pig&quot;" />
+    <list default="true" id="d8e9285f-982d-46d8-98e6-7f60f99ad88c" name="Changes" comment="h">
+      <change afterPath="$PROJECT_DIR$/matlibs_generator/matlibs_generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matlibs_generator/story.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,12 +25,12 @@
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "shieq11"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;shieq11&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -54,11 +58,13 @@
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/shieq/OneDrive/Pulpit/python/gitHub/python/project/Project&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\shieq\OneDrive\Pulpit\python\gitHub\python\project\Project\matlibs_generator" />
       <recent name="C:\Users\shieq\OneDrive\Pulpit\python\gitHub\python\project\Project\multi-clipboard" />
     </key>
   </component>
@@ -103,13 +109,30 @@
       <option name="project" value="LOCAL" />
       <updated>1696406429356</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Projekt z Yt gra &quot;pig&quot;">
+      <option name="closed" value="true" />
+      <created>1696406689709</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1696406689709</updated>
+    </task>
+    <task id="LOCAL-00006" summary="h">
+      <option name="closed" value="true" />
+      <created>1696406739574</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1696406739574</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="działający projet z Yt" />
     <MESSAGE value="Problem z kontem email" />
     <MESSAGE value="Projekt z Yt gra &quot;pig&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Projekt z Yt gra &quot;pig&quot;" />
+    <MESSAGE value="h" />
+    <option name="LAST_COMMIT_MESSAGE" value="h" />
   </component>
 </project>
