@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d8e9285f-982d-46d8-98e6-7f60f99ad88c" name="Changes" comment="h">
-      <change afterPath="$PROJECT_DIR$/matlibs_generator/matlibs_generator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/matlibs_generator/story.txt" afterDir="false" />
+    <list default="true" id="d8e9285f-982d-46d8-98e6-7f60f99ad88c" name="Changes" comment="Progam do zamiany słów w tekście">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -125,7 +123,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696406739574</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Progam do zamiany słów w tekście">
+      <option name="closed" value="true" />
+      <created>1696493719458</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1696493719458</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -133,6 +139,7 @@
     <MESSAGE value="Problem z kontem email" />
     <MESSAGE value="Projekt z Yt gra &quot;pig&quot;" />
     <MESSAGE value="h" />
-    <option name="LAST_COMMIT_MESSAGE" value="h" />
+    <MESSAGE value="Progam do zamiany słów w tekście" />
+    <option name="LAST_COMMIT_MESSAGE" value="Progam do zamiany słów w tekście" />
   </component>
 </project>
