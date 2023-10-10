@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d8e9285f-982d-46d8-98e6-7f60f99ad88c" name="Changes" comment="Progam do zamiany słów w tekście">
+      <change afterPath="$PROJECT_DIR$/quiz/quiz game.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
