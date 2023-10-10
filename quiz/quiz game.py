@@ -4,7 +4,7 @@
 
 print("Welcome in my quiz ")
 
-playing = input("CDo you want to play? ")
+playing = input("Do you want to play? ")
 score = 0
 
 if playing.lower() != "yes":
